@@ -1,0 +1,24 @@
+Run:
+
+npx degit sveltejs/template <your app name>
+
+cd <your app name>
+
+npm install
+
+npm run dev
+
+
+----
+
+Convert to Typescript:
+
+run: node scripts/setupTypeScript.js
+
+run "npm install" again
+
+----
+
+Build production version:
+
+npm run build
