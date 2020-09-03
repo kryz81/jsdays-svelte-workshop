@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Online Shop",
+      "category": "Customer",
+      "estimatedDays": 6,
+      "loggedDays": 0,
+      "done": false
+    },
+    {
+      "id": 2,
+      "name": "Company Website",
+      "category": "Internal",
+      "estimatedDays": 4,
+      "loggedDays": 0,
+      "done": false
+    },
+    {
+      "id": 3,
+      "name": "Build Script",
+      "category": "Internal",
+      "estimatedDays": 2,
+      "loggedDays": 3,
+      "done": false
+    }
+  ]
+}
